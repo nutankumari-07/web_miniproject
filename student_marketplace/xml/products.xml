@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+
+    <!-- BOOKS -->
+    <product>
+        <id>1</id>
+        <name>Book 1</name>
+        <category>Books</category>
+        <price>50</price>
+        <image>book1.jpg</image>
+    </product>
+
+    <product>
+        <id>2</id>
+        <name>Book 2</name>
+        <category>Books</category>
+        <price>60</price>
+        <image>book2.jpg</image>
+    </product>
+
+    <product>
+        <id>3</id>
+        <name>Novel 1</name>
+        <category>Books</category>
+        <price>80</price>
+        <image>novel1.jpg</image>
+    </product>
+
+    <product>
+        <id>4</id>
+        <name>Novel 2</name>
+        <category>Books</category>
+        <price>90</price>
+        <image>novel2.jpg</image>
+    </product>
+
+    <!-- ELECTRONICS -->
+    <product>
+        <id>5</id>
+        <name>AirPods</name>
+        <category>Electronics</category>
+        <price>300</price>
+        <image>airpods1.jpg</image>
+    </product>
+
+    <product>
+        <id>6</id>
+        <name>Headphones 1</name>
+        <category>Electronics</category>
+        <price>120</price>
+        <image>headphone1.jpg</image>
+    </product>
+
+    <product>
+        <id>7</id>
+        <name>Headphones 2</name>
+        <category>Electronics</category>
+        <price>140</price>
+        <image>headphone2.jpg</image>
+    </product>
+
+    <product>
+        <id>8</id>
+        <name>PC</name>
+        <category>Electronics</category>
+        <price>800</price>
+        <image>pc.jpg</image>
+    </product>
+
+    <product>
+        <id>9</id>
+        <name>PC 2</name>
+        <category>Electronics</category>
+        <price>900</price>
+        <image>pc2.jpg</image>
+    </product>
+
+    <product>
+        <id>10</id>
+        <name>Speaker</name>
+        <category>Electronics</category>
+        <price>180</price>
+        <image>speaker2.jpg</image>
+    </product>
+
+    <!-- FURNITURE -->
+    <product>
+        <id>11</id>
+        <name>Study Table</name>
+        <category>Furniture</category>
+        <price>350</price>
+        <image>stable1.jpg</image>
+    </product>
+
+    <product>
+        <id>12</id>
+        <name>Chair</name>
+        <category>Furniture</category>
+        <price>150</price>
+        <image>chair.jpg</image>
+    </product>
+
+    <product>
+        <id>13</id>
+        <name>Bean Bag</name>
+        <category>Furniture</category>
+        <price>200</price>
+        <image>bean1.jpg</image>
+    </product>
+
+    <!-- ACCESSORIES -->
+    <product>
+        <id>14</id>
+        <name>T-Shirt 1</name>
+        <category>Accessories</category>
+        <price>70</price>
+        <image>tshirt1.jpg</image>
+    </product>
+
+    <product>
+        <id>15</id>
+        <name>T-Shirt 2</name>
+        <category>Accessories</category>
+        <price>75</price>
+        <image>tshirt2.jpg</image>
+    </product>
+
+    <product>
+        <id>16</id>
+        <name>Dress 1</name>
+        <category>Accessories</category>
+        <price>120</price>
+        <image>dress1.jpg</image>
+    </product>
+
+    <product>
+        <id>17</id>
+        <name>Dress 2</name>
+        <category>Accessories</category>
+        <price>130</price>
+        <image>dress2.jpg</image>
+    </product>
+
+    <product>
+        <id>18</id>
+        <name>Watch</name>
+        <category>Accessories</category>
+        <price>220</price>
+        <image>watch1.jpg</image>
+    </product>
+
+    <product>
+        <id>19</id>
+        <name>Bike</name>
+        <category>Accessories</category>
+        <price>500</price>
+        <image>bike1.jpg</image>
+    </product>
+
+    <product>
+        <id>20</id>
+        <name>Cycle</name>
+        <category>Accessories</category>
+        <price>250</price>
+        <image>cycle1.jpg</image>
+    </product>
+
+    <product>
+        <id>21</id>
+        <name>Car</name>
+        <category>Accessories</category>
+        <price>1000</price>
+        <image>car1.jpg</image>
+    </product>
+
+    <product>
+        <id>22</id>
+        <name>Item 1</name>
+        <category>Accessories</category>
+        <price>110</price>
+        <image>mn.jpg</image>
+    </product>
+
+    <product>
+        <id>23</id>
+        <name>Item 2</name>
+        <category>Accessories</category>
+        <price>115</price>
+        <image>mn2.jpg</image>
+    </product>
+
+    <product>
+        <id>24</id>
+        <name>Item 3</name>
+        <category>Accessories</category>
+        <price>120</price>
+        <image>n1.jpg</image>
+    </product>
+
+    <product>
+        <id>25</id>
+        <name>Item 4</name>
+        <category>Accessories</category>
+        <price>125</price>
+        <image>n2.jpg</image>
+    </product>
+
+</products>
